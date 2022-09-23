@@ -1,0 +1,5 @@
+homepage: "https://www.air360.io/"
+documentation: "https://app.air360.io/docs/quickstart-api#events"
+versions:
+  - sha: 630ac970e0704e94500fb24be6b78680f36c81c2
+    changeNotes: Initial release.
