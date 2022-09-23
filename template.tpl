@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Air360 Custom Tracking Tag",
+  "categories": ["ANALYTICS", "CONVERSIONS", "SESSION_RECORDING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
